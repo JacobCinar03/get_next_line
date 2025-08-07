@@ -1,4 +1,0 @@
-Merhaba
-Bu bir test dosyasıdır.
-Her satır ayrı okunmalı.
-Son satırda newline yok olabilir
